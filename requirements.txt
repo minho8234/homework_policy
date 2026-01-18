@@ -8,3 +8,5 @@ koreanize-matplotlib
 python-dotenv
 streamlit-audiorecorder
 openai
+langchain
+langchain-community
